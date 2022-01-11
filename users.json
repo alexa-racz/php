@@ -1,0 +1,75 @@
+{
+    "userid1": {
+        "id": "userid1",
+        "username": "user1",
+        "email": "email1"
+    },
+    "userid2": {
+        "id": "userid2",
+        "username": "user2",
+        "email": "email1"
+    },
+    "61c383350f8a4": {
+        "username": "a",
+        "email": "babe@babe.com",
+        "password": "$2y$10$Mw1Sx.bFw5nGDCbiF4Lw\/.JIM.KeyIVgHbc7uF5XiilIEHMsaOngO",
+        "roles": [
+            "user"
+        ],
+        "id": "61c383350f8a4"
+    },
+    "61c82b98cdcb3": {
+        "username": "Erika",
+        "email": "rkerika@gmail.com",
+        "password": "$2y$10$NJrQdozTtECZ4QBP6Lh0d.Evuf762C.Ipvm17oll.IvC0C8LC4sTS",
+        "roles": [
+            "user"
+        ],
+        "id": "61c82b98cdcb3"
+    },
+    "61c82ff808f42": {
+        "username": "e",
+        "email": "babe@babe.com",
+        "password": "$2y$10$1MoqdIopSxStIJ2jZnLRVedTPToXMyKXMgrNuNirwo.4masgc325W",
+        "roles": [
+            "user"
+        ],
+        "id": "61c82ff808f42"
+    },
+    "61c8915337ffc": {
+        "username": "q",
+        "email": "babe@babe.com",
+        "password": "$2y$10$nY6\/Iuj\/QZ1F7eUYiAfhj.B.TmXOQJmyBlsKRKYQqFDQbuLPZq6ES",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8915337ffc"
+    },
+    "61c89e958ae57": {
+        "username": "admin",
+        "email": "admin@elstadion.hu",
+        "password": "$2y$10$Sanv1cSQDx9w1Vfq.lqOMOZdS0cJM.WRWYV4lPRbKkOvaauvNS.6q",
+        "roles": [
+            "admin"
+        ],
+        "id": "61c89e958ae57"
+    },
+    "61c8c01930fac": {
+        "username": "Babe",
+        "email": "babe@babe.hu",
+        "password": "$2y$10$EmYnEljAdh7nKHlY.9hJM.5ESqyHKN3lCjKtw3r9Tjj4xKlO61ASO",
+        "roles": [
+            "user"
+        ],
+        "id": "61c8c01930fac"
+    },
+    "61d6b613a79b2": {
+        "username": "",
+        "email": "dfghjkl",
+        "password": "$2y$10$2euSMV2bVZm8aVOEn.RwIuJEtGBWUSxHzsi7nFUAW6tvHBdK2D1wu",
+        "roles": [
+            "user"
+        ],
+        "id": "61d6b613a79b2"
+    }
+}

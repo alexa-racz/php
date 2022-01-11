@@ -1,0 +1,19 @@
+body {
+    background-color:lightblue;
+}
+
+header {
+    text-align: right;
+}
+
+footer {
+    text-align: center;
+}
+
+main {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}

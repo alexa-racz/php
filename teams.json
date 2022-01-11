@@ -1,0 +1,32 @@
+{
+    "teamid1": {
+        "id": "teamid1",
+        "name": "MTE",
+        "city": "Moh\u00e1cs"
+    },
+    "teamid2": {
+        "id": "teamid2",
+        "name": "V\u00daK",
+        "city": "Veszpr\u00e9m"
+    },
+    "teamid3": {
+        "id": "teamid3",
+        "name": "Iron",
+        "city": "Budapest"
+    },
+    "teamid4": {
+        "id": "teamid4",
+        "name": "KASI",
+        "city": "Kaposv\u00e1r"
+    },
+    "teamid5": {
+        "id": "teamid5",
+        "name": "H\u00f3d",
+        "city": "H\u00f3dmez\u0151v\u00e1s\u00e1rhely"
+    },
+    "teamid6": {
+        "id": "teamid6",
+        "name": "Triton",
+        "city": "Gyula"
+    }
+}

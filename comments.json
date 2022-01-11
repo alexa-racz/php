@@ -1,0 +1,76 @@
+{
+    "commentid1": {
+        "author": "userid1",
+        "text": "Hajr\u00e1 fi\u00fak!",
+        "teamid": "teamid1",
+        "date": "2022-01-06"
+    },
+    "commentid2": {
+        "author": "userid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "teamid1",
+        "date": "2022-01-06"
+    },
+    "commentid3": {
+        "author": "userid2",
+        "text": "J\u00f3 volt a legut\u00f3bbi meccs!",
+        "teamid": "teamid2",
+        "date": "2022-01-06"
+    },
+    "61c38b44c78bd": {
+        "text": "a",
+        "author": "61c383350f8a4",
+        "teamid": "teamid2",
+        "date": "2022-01-06",
+        "id": "61c38b44c78bd"
+    },
+    "61c82bad2ec17": {
+        "text": "szuper",
+        "author": "61c82b98cdcb3",
+        "teamid": "teamid3",
+        "date": "2022-01-06",
+        "id": "61c82bad2ec17"
+    },
+    "61c8c04e6e931": {
+        "text": "Hajra babe csapat",
+        "author": "61c8c01930fac",
+        "teamid": "teamid1",
+        "date": "2022-01-06",
+        "id": "61c8c04e6e931"
+    },
+    "61c9c632a06df": {
+        "text": "d",
+        "author": "61c383350f8a4",
+        "teamid": "teamid1",
+        "date": "2022-01-06",
+        "id": "61c9c632a06df"
+    },
+    "61d6cdb930c7a": {
+        "text": "g",
+        "author": "61c89e958ae57",
+        "teamid": "teamid5",
+        "date": "2022-01-06",
+        "id": "61d6cdb930c7a"
+    },
+    "61d6ce8c27db1": {
+        "text": "hello",
+        "author": "61c89e958ae57",
+        "teamid": "teamid5",
+        "date": "2022-01-06",
+        "id": "61d6ce8c27db1"
+    },
+    "61d6cee9d2a07": {
+        "text": "world",
+        "author": "61c89e958ae57",
+        "teamid": "teamid1",
+        "date": "2022-01-06",
+        "id": "61d6cee9d2a07"
+    },
+    "61d6e013a08d5": {
+        "text": "defghj",
+        "author": "61c82b98cdcb3",
+        "teamid": "teamid4",
+        "date": "2022-01-06",
+        "id": "61d6e013a08d5"
+    }
+}
